@@ -4,19 +4,19 @@ If you want to succeed at this hackathon, please read this document and its subs
 ## Checklist
 Please read the following carefully, and act on each item that requires your attention:
 
-- [ ] Fork this repository
-- [ ] Make sure that you have a ticket from Tito. Check your email -- Quincy has emailed your ticket to you.
-- [ ] Join the freeCodeCamp JAMstack Hackathon Discord Group (Quincy has emailed that link to all ticket holders). Please do not share this link with non-participants.
-- [ ] Chat with others in the Discord group to brainstorm ideas and form teams. You will also have time on Saturday morning for this. IMPORTANT: Remote hackathon participants cannot team up with in-person participants. This is to simplify the process and ensure that all teams are starting from the same baseline.
-- [ ] Review this `README.md` file for further instructions and guidelines
+- [x] Fork this repository
+- [x] Make sure that you have a ticket from Tito. Check your email -- Quincy has emailed your ticket to you.
+- [x] Join the freeCodeCamp JAMstack Hackathon Discord Group (Quincy has emailed that link to all ticket holders). Please do not share this link with non-participants.
+- [x] Chat with others in the Discord group to brainstorm ideas and form teams. You will also have time on Saturday morning for this. IMPORTANT: Remote hackathon participants cannot team up with in-person participants. This is to simplify the process and ensure that all teams are starting from the same baseline.
+- [x] Review this `README.md` file for further instructions and guidelines
 - [ ] Review the [APIs](/apis.md)
-- [ ] Ask questions to API sponsors directly on their Discord channel (i.e. `api-netlify`)
-- [ ] Review the [Judging Protocol](/judging-protocol.md)
+- [x] Ask questions to API sponsors directly on their Discord channel (i.e. `api-netlify`)
+- [x] Review the [Judging Protocol](/judging-protocol.md)
 - [ ] Already have a team? List it in the [Teams file](/teams.md).
 - [ ] Don't have a team? Review the [Teams](/teams.md) that are seeking teammates.
-- [ ] Review the [Schedule](/schedule.md)
-- [ ] Review the resources and recommendations for [Getting Started](/getting-started.md) with the JAMstack. This will give you good resources for starting your project.
-- [ ] Ensure that you deploy your project with [Netlify](https://www.netlify.com). You should already have an account per the hackathon application instructions
+- [x] Review the [Schedule](/schedule.md)
+- [x] Review the resources and recommendations for [Getting Started](/getting-started.md) with the JAMstack. This will give you good resources for starting your project.
+- [x] Ensure that you deploy your project with [Netlify](https://www.netlify.com). You should already have an account per the hackathon application instructions
 - [ ] Bring a refillable water bottle
 - [ ] BRING A POWER STRIP to use and share with others! We recommend putting tape on it to write your name.
 - [ ] If you plan on drinking alcohol on Sunday evening during the awards ceremony, you'll need to bring a valid government-issued photo identification showing that you're at least 21 years of age.
